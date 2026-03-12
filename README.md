@@ -26,10 +26,11 @@
   <a href="https://github.com/ZiicoB">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ZiicoB&show_icons=true&theme=algolia&include_all_commits=true"  alt="My GitHub stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiicoB&show_icons=true&layout=compact&langs_count=16&theme=algolia"  alt="My GitHub stats" />
-    
 </div>
     
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZiicoB/ZiicoB/output/snake.svg" alt="Snake animation" />  
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12"/>
