@@ -16,7 +16,7 @@
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=code&size=96" width="40"> **Languages & Tools:**
 <div align="center">
   <a href="https://github.com/ZiicoB">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,react" />
   </a>
 </div>
 
